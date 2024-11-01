@@ -3,7 +3,11 @@
 Im building a responsive website which the main topic is revolving around articles about BMW.
 The website also has a sticky top navigation bar and has a functional hamburger menu if viewed in smaller device. The website also has a grid layout displaying several image and a **_Contact Us_** form to send a message by filling out their **name, email, choosing a country where they came from and writing a message they want to deliver**. Then click the button for sending their message.
 
-![nature landscape](assets/image/bmw.png 'nature landscape')
+![bmw](/assets/image/bmw.png 'bmw')
+
+## Website link
+
+Visit the following link to see the website: https://bmwshowcase.netlify.app/
 
 ## Languages and Tools
 
