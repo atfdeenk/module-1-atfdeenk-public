@@ -1,6 +1,6 @@
 # BMW Showcase
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c66b52d9-c320-41d0-90a1-89e2d4f91e81/deploy-status)](https://app.netlify.com/sites/bmwshowcase/deploys)
+?branch=[![Netlify Status](https://api.netlify.com/api/v1/badges/c66b52d9-c320-41d0-90a1-89e2d4f91e81/deploy-status)](https://app.netlify.com/sites/bmwshowcase/deploys)
 
 Im building a responsive website which the main topic is revolving around articles about BMW.
 The website also has a sticky top navigation bar and has a functional hamburger menu if viewed in smaller device. The website also has a grid layout displaying several image and a **_Contact Us_** form to send a message by filling out their **name, email, choosing a country where they came from and writing a message they want to deliver**. Then click the button for sending their message.
