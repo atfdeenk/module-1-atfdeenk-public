@@ -8,6 +8,7 @@ The website also has a sticky top navigation bar and has a functional hamburger 
 ## Website link
 
 Visit the following link to see the website: https://bmwshowcase.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c66b52d9-c320-41d0-90a1-89e2d4f91e81/deploy-status)](https://app.netlify.com/sites/bmwshowcase/deploys)
 
 ## Languages and Tools
 
